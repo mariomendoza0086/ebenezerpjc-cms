@@ -1,6 +1,6 @@
 ---
 title: Contacto
-logo: /img/logo.svg
+logo: img/logo.png
 contact_entries:
   - heading: Ubicación
     text: Teniente Herrero e/ Humaita y Gral. Roa
